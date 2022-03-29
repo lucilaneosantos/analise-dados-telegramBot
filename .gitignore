@@ -87,3 +87,7 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+
+#Credenciais do google drive
+credencial.json
